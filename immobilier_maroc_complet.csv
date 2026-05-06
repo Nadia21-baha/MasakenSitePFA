@@ -1,0 +1,82 @@
+﻿Ville,Type_Bien,Transaction,Surface,Prix_Annonce,Date,Titre
+Casablanca,Villa,A Vendre,600.0,0.0,27/04/2026,Villa meublé 8 pièces 600 m² Casablanca
+Casablanca,Villa,A Vendre,245.0,2100000.0,21/04/2026,Villa   245 m² Casablanca  « Route D'el Jadida »
+Casablanca,Villa,A Vendre,278.0,11500000.0,14/04/2026,Villa  7 pièces 278 m² Casablanca  « Franceville »
+Casablanca,Villa,A Vendre,132.0,3600000.0,07/04/2026,Villa meublé 9 pièces 132 m² Casablanca  « Sidi Bernoussi »
+Casablanca,Villa,A Vendre,1200.0,10800000.0,13/03/2026,Villa   1200 m² Casablanca  « Polo »
+Rabat,Villa,A Vendre,222.0,7900000.0,30/04/2026,Villa  8 pièces 222 m² Rabat  « Agdal »
+Rabat,Villa,A Vendre,250.0,4500000.0,24/02/2026,Villa  6 pièces 250 m² Rabat  « Guich Oudaya »
+Rabat,Villa,A Vendre,1000.0,26000000.0,23/02/2026,Villa  8 pièces 1000 m² Rabat  « Souissi »
+Rabat,Villa,A Vendre,1100.0,16500000.0,19/02/2026,Villa   1100 m² Rabat
+Rabat,Villa,A Vendre,150.0,35000000.0,11/02/2026,Villa  7 pièces 150 m² Rabat  « Autre Secteur »
+Marrakech,Villa,A Vendre,570.0,9000000.0,05/05/2026,Villa meublé 12 pièces 570 m² Marrakech  « Hay Targa »
+Marrakech,Villa,A Vendre,316.0,3350000.0,04/05/2026,Villa  8 pièces 316 m² Marrakech  « Targa »
+Marrakech,Villa,A Vendre,700.0,18445000.0,23/04/2026,Villa  6 pièces 700 m² Marrakech
+Marrakech,Villa,A Vendre,360.0,3200000.0,22/04/2026,Villa meublé 4 pièces 360 m² Marrakech
+Marrakech,Villa,A Vendre,500.0,1750000.0,14/04/2026,Villa  5 pièces 500 m² Marrakech  « Route D'ourika »
+Marrakech,Villa,A Vendre,110.0,1950000.0,05/04/2026,Villa  4 pièces 110 m² Marrakech  « Route D'ourika »
+Marrakech,Villa,A Vendre,120.0,2600000.0,05/04/2026,Villa  6 pièces 120 m² Marrakech  « Route D'ourika »
+Marrakech,Villa,A Vendre,115.0,1200000.0,24/03/2026,Villa  5 pièces 115 m² Marrakech  « El Afak »
+Marrakech,Villa,A Vendre,0.0,4700000.0,08/02/2026,Villa  8 pièces 0 m² Marrakech  « Targa »
+Marrakech,Villa,A Vendre,140.0,9800000.0,07/02/2026,Villa  2 pièces 140 m² Marrakech  « Assif »
+Tanger,Villa,A Vendre,500.0,6500000.0,06/05/2026,Villa  6 pièces 500 m² Tanger  « Malabata »
+Tanger,Villa,A Vendre,500.0,5000000.0,28/04/2026,Villa  7 pièces 500 m² Tanger  « Centre Ville »
+Tanger,Villa,A Vendre,300.0,5000000.0,02/04/2026,Villa  7 pièces 300 m² Tanger  « Achakar »
+Tanger,Villa,A Vendre,370.0,4950000.0,14/03/2026,Villa  10 pièces 370 m² Tanger  « Tanja Balia »
+Tanger,Villa,A Vendre,300.0,4000000.0,14/03/2026,Villa  6 pièces 300 m² Tanger  « Tanja Balia »
+Tanger,Villa,A Vendre,450.0,7700000.0,13/03/2026,Villa  8 pièces 450 m² Tanger  « De La Plage »
+Tanger,Villa,A Vendre,450.0,8300000.0,05/03/2026,Villa  8 pièces 450 m² Tanger  « Sania »
+Tanger,Villa,A Vendre,400.0,7000000.0,05/03/2026,Villa  8 pièces 400 m² Tanger  « Malabata »
+Tanger,Villa,A Vendre,330.0,7000000.0,05/03/2026,Villa  5 pièces 330 m² Tanger  « Malabata »
+Tanger,Villa,A Vendre,400.0,7500000.0,03/03/2026,Villa meublé 8 pièces 400 m² Tanger  « Du Golf »
+Tanger,Villa,A Vendre,3000.0,30000000.0,02/03/2026,Villa meublé 12 pièces 3000 m² Tanger  « M'nar »
+Tanger,Villa,A Vendre,400.0,6500000.0,27/02/2026,Villa  5 pièces 400 m² Tanger  « M'nar »
+Tanger,Villa,A Vendre,1100.0,20000000.0,23/02/2026,Villa  17 pièces 1100 m² Tanger
+Agadir,Villa,A Vendre,998.0,3360000.0,08/04/2026,Villa meublé 4 pièces 998 m² Agadir  « Drargua »
+Meknès,Villa,A Vendre,473.0,4582900.0,06/05/2026,Villa  8 pièces 473 m² Meknès
+Meknès,Villa,A Vendre,576.0,7800000.0,19/03/2026,Villa  6 pièces 576 m² Meknès
+Kénitra,Villa,A Vendre,330.0,5000000.0,09/04/2026,Villa  8 pièces 330 m² Kenitra  « Bir Rami Est »
+Tétouan,Villa,A Vendre,1000.0,16000000.0,29/04/2026,Villa meublé 6 pièces 1000 m² Tétouan
+Salé,Villa,A Vendre,440.0,9600000.0,02/04/2026,Villa meublé 10 pièces 440 m² Salé  « Sala El Jadida »
+Mohammedia,Villa,A Vendre,532.0,0.0,23/02/2026,Villa  9 pièces 532 m² Mohammedia  « La Colline »
+Mohammedia,Villa,A Vendre,100.0,3600000.0,06/02/2026,Villa  8 pièces 100 m² Mohammedia
+Nador,Villa,A Vendre,392.0,5500000.0,05/05/2026,Villa  9 pièces 392 m² Temara  « Harhoura »
+Nador,Villa,A Vendre,300.0,7700000.0,24/02/2026,Villa  8 pièces 300 m² Temara  « Harhoura »
+Nador,Villa,A Vendre,450.0,6900000.0,23/02/2026,Villa  8 pièces 450 m² Temara  « Harhoura »
+Nador,Villa,A Vendre,250.0,3900000.0,10/02/2026,Villa  7 pièces 250 m² Temara  « Ain Atig »
+El Jadida,Villa,A Vendre,9000.0,1800000.0,12/02/2026,Villa  6 pièces 9000 m² Beni mellal
+Taza,Villa,A Vendre,280.0,1600000.0,26/04/2026,Villa meublé 7 pièces 280 m² El jadida
+Taza,Villa,A Vendre,100.0,1300000.0,10/03/2026,Villa  4 pièces 100 m² El jadida
+Rabat,Riad,A Vendre,140.0,3100000.0,23/02/2026,Riad  4 pièces 140 m² Rabat  « Les Oudayas »
+Fès,Riad,A Vendre,350.0,140.0,22/03/2026,Riad meublé 10 pièces 350 m² Fès  « Fes Jdid »
+Marrakech,Riad,A Vendre,50.0,1200000.0,26/02/2026,Riad  3 pièces 50 m² Marrakech  « Ancienne Médina »
+Marrakech,Riad,A Vendre,760.0,45600000.0,25/02/2026,Riad  21 pièces 760 m² Marrakech  « Ancienne Médina »
+Casablanca,Bureau,A Vendre,42.0,760000.0,28/03/2026,Bureaux  1 pièces 42 m² Casablanca  « Bourgogne »
+Casablanca,Bureau,A Vendre,55.0,480000.0,20/03/2026,Bureaux  3 pièces 55 m² Casablanca  « La Gironde »
+Casablanca,Bureau,A Vendre,120.0,754000.0,10/02/2026,Bureaux  2 pièces 120 m² Casablanca  « Roches Noires »
+Rabat,Bureau,A Vendre,230.0,3650000.0,12/03/2026,Bureaux   230 m² Rabat  « Agdal »
+Tanger,Bureau,A Vendre,76.0,1450000.0,30/04/2026,Bureaux  1 pièces 76 m² Tanger  « Al Mandar Al Jamil »
+Tanger,Bureau,A Vendre,123.0,3200000.0,22/04/2026,Bureaux meublé 3 pièces 123 m² Tanger
+Tanger,Bureau,A Vendre,18.0,330000.0,10/02/2026,Bureaux   18 m² Tanger
+Tanger,Bureau,A Vendre,160.0,1920000.0,10/02/2026,Bureaux  7 pièces 160 m² Tanger
+Casablanca,Local_Commercial,A Vendre,80.0,950000.0,08/03/2026,Local commercial   80 m² Casablanca
+Casablanca,Local_Commercial,A Vendre,141.0,3700000.0,26/02/2026,Local commercial   141 m² Casablanca  « Maarif »
+Rabat,Local_Commercial,A Vendre,28.0,1000000.0,18/04/2026,Local commercial  2 pièces 28 m² Rabat  « Médina De Rabat »
+Rabat,Local_Commercial,A Vendre,169.0,6422000.0,19/02/2026,Local commercial   169 m² Rabat  « Yacoub El Mansour »
+Marrakech,Local_Commercial,A Vendre,34.0,980000.0,09/04/2026,Local commercial   34 m² Marrakech  « Sidi Youssef Ben Ali »
+Marrakech,Local_Commercial,A Vendre,10.0,1400000.0,19/02/2026,Local commercial   10 m² Marrakech  « Massira 1 »
+Tanger,Local_Commercial,A Vendre,2000.0,4500000.0,10/03/2026,Local commercial   2000 m² Tanger  « Iberie »
+Meknès,Local_Commercial,A Vendre,30.0,320000.0,28/03/2026,Local commercial   30 m² Meknès  « Marjane 2 »
+Oujda,Local_Commercial,A Vendre,176.0,1000000.0,22/04/2026,Local commercial  4 pièces 176 m² Oujda  « Najd »
+Oujda,Local_Commercial,A Vendre,140.0,2500000.0,12/02/2026,Local commercial   140 m² Oujda
+Kénitra,Local_Commercial,A Vendre,45.0,400000.0,16/04/2026,Local commercial   45 m² Kenitra  « Alliance »
+Salé,Local_Commercial,A Vendre,26.0,450000.0,06/05/2026,Local commercial  2 pièces 26 m² Salé
+Salé,Local_Commercial,A Vendre,90.0,0.0,19/03/2026,Local commercial   90 m² Salé  « Sala El Jadida »
+Salé,Local_Commercial,A Vendre,110.0,2100000.0,12/02/2026,Local commercial   110 m² Salé
+Mohammedia,Local_Commercial,A Vendre,84.0,620000.0,21/02/2026,Local commercial   84 m² Mohammedia  « Derb Lfath »
+Settat,Local_Commercial,A Vendre,38.0,550000.0,30/04/2026,Local commercial   38 m² Nador
+Rabat,Ferme,A Vendre,40000.0,3750000.0,10/04/2026,Ferme   40000 m² Rabat
+Oujda,Ferme,A Vendre,80.0,600000.0,23/04/2026,Ferme  4 pièces 80 m² Oujda
+Mohammedia,Ferme,A Vendre,80000.0,7800000.0,13/04/2026,Ferme   80000 m² Mohammedia
+Mohammedia,Ferme,A Vendre,350.0,3400000.0,29/03/2026,Ferme  8 pièces 350 m² Mohammedia  « Zenata »
+Taza,Ferme,A Vendre,150.0,500000.0,17/02/2026,Ferme   150 m² El jadida

@@ -1,0 +1,49 @@
+﻿Ville,Type,Transaction,Surface,Prix_Final,Date,Titre
+Casablanca,Maison,A Vendre,84.0,2600000.0,05/05/2026,Maison  8 pièces 84 m² Casablanca  « Sidi Maarouf »
+Casablanca,Maison,A Vendre,57.0,600000.0,30/04/2026,Maison  3 pièces 57 m² Casablanca  « Al Fida »
+Casablanca,Maison,A Vendre,86.0,280000000.0,23/04/2026,Maison   86 m² Casablanca  « Hay Mohammadi »
+Casablanca,Maison,A Vendre,69.0,1700000.0,22/04/2026,Maison  10 pièces 69 m² Casablanca  « Sbata »
+Casablanca,Maison,A Vendre,192.0,1900000.0,29/03/2026,Maison  7 pièces 192 m² Casablanca  « Sbata »
+Casablanca,Maison,A Vendre,115.0,3800000.0,02/03/2026,Maison  6 pièces 115 m² Casablanca  « Hay Hassani »
+Casablanca,Maison,A Vendre,160.0,2600000.0,18/02/2026,Maison  3 pièces 160 m² Casablanca  « Route D'azemmour »
+Rabat,Maison,A Vendre,230.0,0.0,15/03/2026,Maison meublé 6 pièces 230 m² Rabat
+Fès,Maison,A Vendre,60.0,100000.0,31/03/2026,Maison  2 pièces 60 m² Fès  « Sehb El Ward »
+Marrakech,Maison,A Vendre,90.0,1500000.0,05/05/2026,Maison  5 pièces 90 m² Marrakech  « Route D'ourika »
+Marrakech,Maison,A Vendre,88.0,1400000.0,27/04/2026,Maison  5 pièces 88 m² Marrakech
+Marrakech,Maison,A Vendre,104.0,650000.0,24/04/2026,Maison  12 pièces 104 m² Marrakech
+Marrakech,Maison,A Vendre,79.0,1449998.0,18/04/2026,Maison  5 pièces 79 m² Marrakech  « Route De Casablanca »
+Marrakech,Maison,A Vendre,76.0,1200000.0,29/03/2026,Maison  4 pièces 76 m² Marrakech  « Ancienne Médina »
+Marrakech,Maison,A Vendre,200.0,1200000.0,22/03/2026,Maison  5 pièces 200 m² Marrakech  « Sidi Youssef Ben Ali »
+Marrakech,Maison,A Vendre,243.0,2800000.0,19/03/2026,Maison  4 pièces 243 m² Marrakech  « Agdal »
+Marrakech,Maison,A Vendre,569.0,4000000.0,15/03/2026,Maison  17 pièces 569 m² Marrakech  « Hay Annahda »
+Marrakech,Maison,A Vendre,70.0,2600000.0,25/02/2026,Maison  8 pièces 70 m² Marrakech  « Ancienne Médina »
+Marrakech,Maison,A Vendre,82.0,950000.0,20/02/2026,Maison  11 pièces 82 m² Marrakech  « Hay Al Bahja »
+Tanger,Maison,A Vendre,100.0,1900000.0,30/04/2026,Maison  2 pièces 100 m² Tanger
+Tanger,Maison,A Vendre,172.0,2201600.0,27/04/2026,Maison  6 pièces 172 m² Tanger  « De La Plage »
+Tanger,Maison,A Vendre,50.0,850000.0,17/04/2026,Maison  5 pièces 50 m² Tanger  « Casabarata »
+Tanger,Maison,A Vendre,200.0,1950000.0,11/03/2026,Maison meublé 6 pièces 200 m² Tanger  « De La Plage »
+Tanger,Maison,A Vendre,450.0,10000000.0,10/03/2026,Maison  8 pièces 450 m² Tanger  « Centre Ville »
+Tanger,Maison,A Vendre,128.0,1900000.0,02/03/2026,Maison  7 pièces 128 m² Tanger  « Ahammar »
+Agadir,Maison,A Vendre,100.0,1430000.0,15/04/2026,Maison  8 pièces 100 m² Agadir
+Agadir,Maison,A Vendre,240.0,2300000.0,24/02/2026,Maison  10 pièces 240 m² Agadir  « Lekhiam »
+Meknès,Maison,A Vendre,93.0,1500000.0,27/03/2026,Maison  4 pièces 93 m² Meknès  « Wislane »
+Oujda,Maison,A Vendre,200.0,2500000.0,12/04/2026,Maison  4 pièces 200 m² Oujda
+Oujda,Maison,A Vendre,80.0,480000.0,10/04/2026,Maison  2 pièces 80 m² Oujda
+Oujda,Maison,A Vendre,210.0,1040000.0,07/04/2026,Maison  5 pièces 210 m² Oujda  « Hay Zitoune »
+Oujda,Maison,A Vendre,210.0,700000.0,07/04/2026,Maison  6 pièces 210 m² Oujda  « Hay Lazaret »
+Oujda,Maison,A Vendre,280.0,1100000.0,07/04/2026,Maison  8 pièces 280 m² Oujda  « Hay Zitoune »
+Kénitra,Maison,A Vendre,110.0,1500000.0,11/04/2026,Maison  4 pièces 110 m² Kenitra  « Alliance »
+Kénitra,Maison,A Vendre,394.0,0.0,02/04/2026,Maison  10 pièces 394 m² Kenitra  « El Assam »
+Kénitra,Maison,A Vendre,150.0,650000.0,11/02/2026,Maison  5 pièces 150 m² Kenitra  « Diour 10000 »
+Tétouan,Maison,A Vendre,160.0,18000000.0,06/05/2026,Maison  3 pièces 160 m² Tétouan
+Tétouan,Maison,A Vendre,100.0,3350000.0,27/04/2026,Maison  8 pièces 100 m² Tétouan  « Touilaa »
+Salé,Maison,A Vendre,110.0,880000.0,22/04/2026,Maison  3 pièces 110 m² Salé  « Tabriquet »
+Salé,Maison,A Vendre,92.0,0.0,15/03/2026,Maison meublé 4 pièces 92 m² Salé  « Hay Chmaou »
+Salé,Maison,A Vendre,554.0,6000000.0,09/03/2026,Maison  5 pièces 554 m² Salé
+Mohammedia,Maison,A Vendre,100.0,1600000.0,29/04/2026,Maison  13 pièces 100 m² Mohammedia  « Hay Chabab »
+Mohammedia,Maison,A Vendre,95.0,450000.0,02/03/2026,Maison  3 pièces 95 m² Mohammedia  « Al Qods »
+Nador,Maison,A Vendre,65.0,3000000.0,12/03/2026,Maison  9 pièces 65 m² Temara  « Maghreb Arabi »
+Settat,Maison,A Vendre,90.0,1100000.0,27/04/2026,Maison  4 pièces 90 m² Nador  « Laarassi »
+Berrechid,Maison,A Vendre,100.0,3750000.0,16/02/2026,Maison meublé 5 pièces 100 m² Khemisset
+Taza,Maison,A Vendre,70.0,660000.0,04/04/2026,Maison  4 pièces 70 m² El jadida
+Taza,Maison,A Vendre,120.0,850000.0,12/02/2026,Maison meublé 3 pièces 120 m² El jadida  « Derb Sid Daoui »

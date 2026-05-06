@@ -1,0 +1,65 @@
+﻿Ville,Transaction,Type_Bien,Surface,Prix_Annonce,Prix_Final,Date,Titre
+Casablanca,A Vendre,Terrain,121.0,1300000.0,1300000.0,18/04/2026,Terrain   121 m² Casablanca  « Hay Hassani »
+Casablanca,A Vendre,Terrain,314.0,3140000.0,3140000.0,17/04/2026,Terrain   314 m² Casablanca
+Casablanca,A Vendre,Terrain,0.0,2200.0,2200.0,08/04/2026,Terrain   0 m² Casablanca  « Sidi Maarouf »
+Casablanca,A Vendre,Terrain,0.0,4000.0,4000.0,08/04/2026,Terrain   0 m² Casablanca  « Sidi Maarouf »
+Casablanca,A Vendre,Terrain,2700.0,12500.0,33750000.0,03/04/2026,Terrain  5 pièces 2700 m² Casablanca  « Polo »
+Casablanca,A Vendre,Terrain,81.0,45.0,45.0,16/03/2026,Terrain  4 pièces 81 m² Casablanca
+Casablanca,A Vendre,Terrain,267.0,0.0,0.0,04/03/2026,Terrain   267 m² Casablanca  « Lissasfa »
+Casablanca,A Vendre,Terrain,140.0,4150000.0,4150000.0,28/02/2026,Terrain   140 m² Casablanca
+Casablanca,A Vendre,Terrain,220.0,10340000.0,10340000.0,27/02/2026,Terrain  2 pièces 220 m² Casablanca  « Maarif »
+Rabat,A Vendre,Terrain,500.0,40000.0,40000.0,07/03/2026,Terrain   500 m² Rabat
+Fès,A Vendre,Terrain,0.0,450000.0,450000.0,05/04/2026,Terrain   0 m² Fès
+Fès,A Vendre,Terrain,10000.0,1000000.0,1000000.0,27/02/2026,Terrain   10000 m² Fès
+Marrakech,A Vendre,Terrain,0.0,500000.0,500000.0,24/04/2026,Terrain   0 m² Marrakech
+Marrakech,A Vendre,Terrain,2800.0,602000.0,602000.0,20/04/2026,Terrain   2800 m² Marrakech  « Sidi Abdellah Ghiat »
+Marrakech,A Vendre,Terrain,13000.0,85000.0,85000.0,15/04/2026,Terrain   13000 m² Marrakech
+Marrakech,A Vendre,Terrain,484.0,2300000.0,2300000.0,03/04/2026,Terrain   484 m² Marrakech  « Palmeraie »
+Marrakech,A Vendre,Terrain,400.0,5000000.0,5000000.0,26/03/2026,Terrain  7 pièces 400 m² Marrakech  « Route D'ourika »
+Marrakech,A Vendre,Terrain,288.0,1600000.0,1600000.0,24/03/2026,Terrain   288 m² Marrakech  « Ain Mezouar »
+Marrakech,A Vendre,Terrain,182.0,3130000.0,3130000.0,12/03/2026,Terrain  7 pièces 182 m² Marrakech
+Marrakech,A Vendre,Terrain,413.0,2200000.0,2200000.0,08/03/2026,Terrain  6 pièces 413 m² Marrakech  « Les Portes De Marrakech »
+Marrakech,A Vendre,Terrain,99.0,750000.0,750000.0,09/02/2026,Terrain   99 m² Marrakech  « Route D'ourika »
+Marrakech,A Vendre,Terrain,1000.0,650000.0,650000.0,07/02/2026,Terrain   1000 m² Marrakech  « Route D'ourika »
+Marrakech,A Vendre,Terrain,2000.0,960000.0,960000.0,06/02/2026,Terrain  1 pièces 2000 m² Marrakech  « Route D'ourika »
+Tanger,A Vendre,Terrain,510.0,0.0,0.0,28/04/2026,Terrain  2 pièces 510 m² Tanger
+Tanger,A Vendre,Terrain,0.0,0.0,0.0,12/04/2026,Terrain   0 m² Tanger
+Tanger,A Vendre,Terrain,1228.0,2500000.0,2500000.0,10/03/2026,Terrain   1228 m² Tanger
+Tanger,A Vendre,Terrain,503.0,1800000.0,1800000.0,27/02/2026,Terrain   503 m² Tanger  « Achakar »
+Tanger,A Vendre,Terrain,600.0,2900000.0,2900000.0,27/02/2026,Terrain   600 m² Tanger
+Tanger,A Vendre,Terrain,366.0,2928000.0,2928000.0,24/02/2026,Terrain   366 m² Tanger  « Manar »
+Tanger,A Vendre,Terrain,220.0,2816000.0,2816000.0,13/02/2026,Terrain   220 m² Tanger  « Malabata »
+Tanger,A Vendre,Terrain,700.0,3850000.0,3850000.0,12/02/2026,Terrain   700 m² Tanger
+Tanger,A Vendre,Terrain,555.0,2000000.0,2000000.0,12/02/2026,Terrain   555 m² Tanger  « Achakar »
+Tanger,A Vendre,Terrain,216.0,2160000.0,2160000.0,12/02/2026,Terrain   216 m² Tanger  « Achakar »
+Agadir,A Vendre,Terrain,412.0,0.0,0.0,06/04/2026,Terrain   412 m² Agadir
+Agadir,A Vendre,Terrain,154.0,3080000.0,3080000.0,01/04/2026,Terrain   154 m² Agadir  « Hay Mohammadi »
+Agadir,A Vendre,Terrain,500.0,1250000.0,1250000.0,16/02/2026,Terrain   500 m² Agadir
+Agadir,A Vendre,Terrain,300.0,980000.0,980000.0,12/02/2026,Terrain  10 pièces 300 m² Agadir
+Agadir,A Vendre,Terrain,1666.0,1600000.0,1600000.0,10/02/2026,Terrain   1666 m² Agadir
+Oujda,A Vendre,Terrain,153.0,842000.0,842000.0,04/05/2026,Terrain   153 m² Oujda  « Village Toba »
+Oujda,A Vendre,Terrain,468.0,2106000.0,2106000.0,03/05/2026,Terrain   468 m² Oujda  « Hay El Qods »
+Oujda,A Vendre,Terrain,110.0,440000.0,440000.0,19/04/2026,Terrain   110 m² Oujda  « Cgi »
+Oujda,A Vendre,Terrain,188.0,470000.0,470000.0,25/03/2026,Terrain   188 m² Oujda
+Kénitra,A Vendre,Terrain,450.0,2400000.0,2400000.0,15/04/2026,Terrain   450 m² Kenitra  « El Haddada »
+Kénitra,A Vendre,Terrain,281.0,1060000.0,1060000.0,04/04/2026,Terrain   281 m² Kenitra  « Alliance »
+Kénitra,A Vendre,Terrain,387.0,2200000.0,2200000.0,04/04/2026,Terrain   387 m² Kenitra  « El Haddada »
+Kénitra,A Vendre,Terrain,400.0,5600.0,2240000.0,04/04/2026,Terrain   400 m² Kenitra  « El Haddada »
+Salé,A Vendre,Terrain,20000.0,0.0,0.0,02/03/2026,Terrain   20000 m² Salé
+Salé,A Vendre,Terrain,30000.0,0.0,0.0,16/02/2026,Terrain   30000 m² Salé
+Nador,A Vendre,Terrain,360.0,1200000.0,1200000.0,26/04/2026,Terrain   360 m² Temara
+Nador,A Vendre,Terrain,20000.0,30000000.0,30000000.0,19/02/2026,Terrain   20000 m² Temara  « El Menzeh »
+Safi,A Vendre,Terrain,180.0,1000.0,180000.0,13/03/2026,Terrain   180 m² Laâyoune
+Bouskoura,A Vendre,Terrain,17582.0,0.0,0.0,24/04/2026,Terrain   17582 m² Bouskoura
+Bouskoura,A Vendre,Terrain,4219.0,800.0,3375200.0,27/02/2026,Terrain   4219 m² Bouskoura
+Bouznika,A Vendre,Terrain,400.0,1260000.0,1260000.0,04/03/2026,Terrain   400 m² Bouznika
+Bouznika,A Vendre,Terrain,130.0,700000.0,700000.0,09/02/2026,Terrain  4 pièces 130 m² Bouznika
+Laâyoune,A Vendre,Terrain,20000.0,0.0,0.0,05/03/2026,Terrain   20000 m² Al fqih ben çalah
+Dakhla,A Vendre,Terrain,2732.0,6000000.0,6000000.0,15/03/2026,Terrain   2732 m² Ifrane
+Taza,A Vendre,Terrain,144.0,500.0,500.0,04/05/2026,Terrain  3 pièces 144 m² El jadida
+Taza,A Vendre,Terrain,0.0,600.0,600.0,04/05/2026,Terrain   0 m² El jadida
+Taza,A Vendre,Terrain,156.0,1200000.0,1200000.0,12/04/2026,Terrain   156 m² El jadida
+Taza,A Vendre,Terrain,4000.0,680000.0,680000.0,19/03/2026,Terrain   4000 m² El jadida
+Taza,A Vendre,Terrain,12000.0,600000.0,600000.0,21/02/2026,Terrain   12000 m² El jadida
+Taza,A Vendre,Terrain,50000.0,150000000.0,150000000.0,16/02/2026,Terrain   50000 m² El jadida  « Narjiss »
+Taza,A Vendre,Terrain,5700.0,19950000.0,19950000.0,16/02/2026,Terrain   5700 m² El jadida  « Centre »
